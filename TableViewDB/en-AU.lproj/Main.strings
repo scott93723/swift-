@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "班別:"; ObjectID = "03x-jb-aMM"; */
+"03x-jb-aMM.text" = "班別:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "06z-8a-zJ1"; */
+"06z-8a-zJ1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "相簿"; ObjectID = "2hB-80-3WM"; */
+"2hB-80-3WM.configuration.title" = "相簿";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2hB-80-3WM"; */
+"2hB-80-3WM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "姓名:"; ObjectID = "4aD-Os-eS5"; */
+"4aD-Os-eS5.text" = "姓名:";
+
+/* Class = "UILabel"; text = "學號:"; ObjectID = "567-tG-Vru"; */
+"567-tG-Vru.text" = "學號:";
+
+/* Class = "UILabel"; text = "照片:"; ObjectID = "5J9-Aq-Gs9"; */
+"5J9-Aq-Gs9.text" = "照片:";
+
+/* Class = "UIButton"; configuration.title = "相簿"; ObjectID = "5xV-y1-0Bj"; */
+"5xV-y1-0Bj.configuration.title" = "相簿";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5xV-y1-0Bj"; */
+"5xV-y1-0Bj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "性別:"; ObjectID = "8Kk-oV-92S"; */
+"8Kk-oV-92S.text" = "性別:";
+
+/* Class = "UILabel"; text = "學號:"; ObjectID = "8Xe-Dc-wAF"; */
+"8Xe-Dc-wAF.text" = "學號:";
+
+/* Class = "UILabel"; text = "性別:"; ObjectID = "FDd-Cb-9cb"; */
+"FDd-Cb-9cb.text" = "性別:";
+
+/* Class = "UILabel"; text = "照片:"; ObjectID = "Fj2-aI-DKX"; */
+"Fj2-aI-DKX.text" = "照片:";
+
+/* Class = "UIButton"; configuration.title = "新增資料"; ObjectID = "Gxb-Sa-AcJ"; */
+"Gxb-Sa-AcJ.configuration.title" = "新增資料";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gxb-Sa-AcJ"; */
+"Gxb-Sa-AcJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "導航"; ObjectID = "M5u-Sf-5TV"; */
+"M5u-Sf-5TV.configuration.title" = "導航";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "M5u-Sf-5TV"; */
+"M5u-Sf-5TV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "地址:"; ObjectID = "Pv4-ID-w7i"; */
+"Pv4-ID-w7i.text" = "地址:";
+
+/* Class = "UILabel"; text = "地址:"; ObjectID = "QEK-v0-kBh"; */
+"QEK-v0-kBh.text" = "地址:";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "TUP-n3-zjg"; */
+"TUP-n3-zjg.text" = "Email:";
+
+/* Class = "UILabel"; text = "班別:"; ObjectID = "W78-1G-M05"; */
+"W78-1G-M05.text" = "班別:";
+
+/* Class = "UILabel"; text = "no"; ObjectID = "Wbs-EZ-XSH"; */
+"Wbs-EZ-XSH.text" = "no";
+
+/* Class = "UILabel"; text = "姓名:"; ObjectID = "dPD-ad-fKP"; */
+"dPD-ad-fKP.text" = "姓名:";
+
+/* Class = "UILabel"; text = "gender"; ObjectID = "f65-x3-xEv"; */
+"f65-x3-xEv.text" = "gender";
+
+/* Class = "UILabel"; text = "電話:"; ObjectID = "gEr-mL-6BT"; */
+"gEr-mL-6BT.text" = "電話:";
+
+/* Class = "UILabel"; text = "姓名:"; ObjectID = "hAt-aJ-PwD"; */
+"hAt-aJ-PwD.text" = "姓名:";
+
+/* Class = "UILabel"; text = "學號:"; ObjectID = "hkB-gZ-0vE"; */
+"hkB-gZ-0vE.text" = "學號:";
+
+/* Class = "UILabel"; text = "電話:"; ObjectID = "iC2-dj-yZc"; */
+"iC2-dj-yZc.text" = "電話:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iN0-I7-dp0"; */
+"iN0-I7-dp0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "no"; ObjectID = "ijs-oN-UVp"; */
+"ijs-oN-UVp.text" = "no";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "k1Q-qH-gNI"; */
+"k1Q-qH-gNI.text" = "name";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "p18-5V-Zdr"; */
+"p18-5V-Zdr.text" = "Email:";
+
+/* Class = "UIButton"; configuration.title = "修改資料"; ObjectID = "puN-0p-o9O"; */
+"puN-0p-o9O.configuration.title" = "修改資料";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "puN-0p-o9O"; */
+"puN-0p-o9O.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vXk-jZ-NJA"; */
+"vXk-jZ-NJA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "性別:"; ObjectID = "yKg-x9-uo4"; */
+"yKg-x9-uo4.text" = "性別:";
